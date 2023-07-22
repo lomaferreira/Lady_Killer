@@ -32,7 +32,7 @@ pygame.mixer.music.play(-1)
 
 # Cria a tela com largura e altura pré definida
 tela = pygame.display.set_mode((largura, altura))
-pygame.display.set_caption('Run to Kill')
+pygame.display.set_caption('Lady Killer')
 
 
 # Carrengando todas as sprites
