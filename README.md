@@ -1,4 +1,4 @@
-<h1 align='center'>Landing Page</h1>
+<h1 align='center'>Lady Killer</h1>
 <p align='center'><img src= 'https://img.shields.io/badge/license-MIT-blue'/> 
  <img src= 'https://img.shields.io/badge/status-finished-blue'/>
 </p>
